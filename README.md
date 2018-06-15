@@ -1,7 +1,7 @@
-# Whitepaper
+## One Page
 
-### coming 
+#### Read [here](http://cyberdrop.ai/One_Page_cyberDrop.pdf).
 
-# One Page
+## Whitepaper
 
-### Read [here](http://cyberdrop.ai/One_Page_cyberDrop.pdf).
+#### Coming soon.
