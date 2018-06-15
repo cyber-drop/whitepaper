@@ -2,4 +2,6 @@
 
 ### coming 
 
-# [One Page](https://github.com/cyber-drop/whitepaper/blob/master/One_Page_cyberDrop.pdf)
+# One Page
+
+### Read [here](http://cyberdrop.ai/One_Page_cyberDrop.pdf).
